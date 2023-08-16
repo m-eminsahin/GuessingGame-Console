@@ -1,0 +1,7 @@
+C:\Users\ssahi\C#\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\ssahi\C#\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\ssahi\C#\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\ssahi\C#\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\ssahi\C#\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\ssahi\C#\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\ssahi\C#\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
